@@ -10,6 +10,6 @@ main {
 
 .landing {
     min-height: 100vh;
-    background: url('/assets/images/Hero.jpg');
+    background-image:url('../images/Hero.jpg');
     background-size: cover;
 }
