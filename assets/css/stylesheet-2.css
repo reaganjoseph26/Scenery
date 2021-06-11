@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo {
+    font-family: "Lobster", cursive;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    font-style: italic;
+    color: black;
+}
+
+main {
+    padding: 0rem 5rem;
+    font-family: "Heebo", sans-serif ;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 10vh;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    color: white;
+}
+
+.nav-links li {
+    padding-left: 10rem;
+    font-size: 1.2rem
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+}
