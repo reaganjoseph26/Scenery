@@ -43,7 +43,6 @@ nav {
     font-size: 1.5rem;
     font-weight: lighter;
     font-style: italic;
-    color: white;
 }
 
 .big-text {
@@ -54,6 +53,11 @@ nav {
     font-size: 4rem;
     font-family: "Lobster", cursive;
     font-weight: lighter;
+    color: white;
+}
+
+h1 a {
+    text-decoration: none;
     color: white;
 }
 

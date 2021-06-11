@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
-.landing {
+.mountain-landing {
     min-height: 100vh;
-    background-image:url('../images/Hero.jpg');
+    background-image:url('../images/Scenery_benjamin-voros.jpg');
     background-size: cover;
     padding: 0rem 5rem;
 }
@@ -16,7 +16,11 @@
     font-size: 1.5rem;
     font-weight: lighter;
     font-style: italic;
-    color: black;
+}
+
+h1 a {
+    text-decoration: none;
+    color: white;
 }
 
 main {
@@ -43,5 +47,5 @@ nav {
 
 .nav-links a {
     text-decoration: none;
-    color: black;
+    color: white;
 }
